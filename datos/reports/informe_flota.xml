@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flota>
+    <vehiculo>
+        <matricula>1234ABC</matricula>
+        <marca>Seat</marca>
+        <modelo>Ibiza</modelo>
+        <año>2020</año>
+        <kilometraje>45000.5</kilometraje>
+        <categoria_mantenimiento>A</categoria_mantenimiento>
+    </vehiculo>
+    <vehiculo>
+        <matricula>5678DEF</matricula>
+        <marca>Toyota</marca>
+        <modelo>Corolla</modelo>
+        <año>2022</año>
+        <kilometraje>18200.0</kilometraje>
+        <categoria_mantenimiento>B</categoria_mantenimiento>
+    </vehiculo>
+    <vehiculo>
+        <matricula>9012GHI</matricula>
+        <marca>Volvo</marca>
+        <modelo>FH16</modelo>
+        <año>2019</año>
+        <kilometraje>230500.8</kilometraje>
+        <categoria_mantenimiento>C</categoria_mantenimiento>
+    </vehiculo>
+    <vehiculo>
+        <matricula>3456JKL</matricula>
+        <marca>Renault</marca>
+        <modelo>Clio</modelo>
+        <año>2021</año>
+        <kilometraje>60000.0</kilometraje>
+        <categoria_mantenimiento>A</categoria_mantenimiento>
+    </vehiculo>
+</flota>

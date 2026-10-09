@@ -1,0 +1,26 @@
+[
+  {
+    "matricula": "1234ABC",
+    "marca": "Seat",
+    "modelo": "Ibiza",
+    "anyo": 2020,
+    "kms_recorridos": 45000.5,
+    "catMant": "A"
+  },
+  {
+    "matricula": "5678DEF",
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "anyo": 2022,
+    "kms_recorridos": 18200.0,
+    "catMant": "B"
+  },
+  {
+    "matricula": "9012GHI",
+    "marca": "Volvo",
+    "modelo": "FH16",
+    "anyo": 2019,
+    "kms_recorridos": 230500.8,
+    "catMant": "C"
+  }
+]
